@@ -1,0 +1,20 @@
+from classes import *
+
+p1 = Pessoa("Esley",60,20)
+
+p1.acordar()
+p1.dormir()
+p1.falar("não gosta de fanta.")
+p1.acordar()
+p1.falar("não gosta de fanta.")
+p1.comer("Pizza","Pepsi")
+p1.pararFalar()
+p1.comer("Pizza","Pepsi")
+p1.pararComer()
+p1.pararComer()
+p1.falar("gosta de lasanha")
+p1.dormir()
+p1.pararFalar()
+p1.dormir()
+p1.comer("Pizza","Pepsi")
+p1.acordar()
